@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name" translatable="false">Homework Android 1 lesson 3</string>
+    <string name="to_second_activity">What is the weather now?</string>
+    <string name="askCity">Enter the city name below to find the weather information. Available cities: Moscow, Riga, Kiev.</string>
+    <string name="MoscowWeather">Sunny, +5</string>
+    <string name="KievWeather">Cloudy, +2</string>
+    <string name="RigaWeather">Rainy, +7</string>
+    <string name="LocationNotFound">Sorry, no weather information about this city.</string>
+</resources>
